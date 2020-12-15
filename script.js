@@ -1,3 +1,4 @@
+$( document ).ready(function() {
 var glitter= "https://assets.teenvogue.com/photos/5bef0e65a8c9f04ca551314c/master/pass/tout.jpg";
 
 var matte= "https://triedandtestedblog.files.wordpress.com/2015/08/essie-cashmere-mattes-comfy-in-cashmere-wrap-me-up-just-stitched-all-eyes-on-nude-coat-couture-spun-in-luxe-matte-nail-polish-swatches-1.jpg";
@@ -88,5 +89,6 @@ else
 
 
 
+});
 });
 
