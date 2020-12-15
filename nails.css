@@ -33,7 +33,7 @@ body{text-align: center;
             font-family: Verdana, sans-serif;
            }
 
-::placeholder{color: #0C010E;
+::placeholder{color: #390e63;
               font-size: 20px;
               font-weight: 700;
               font-family: Didot, serif;
@@ -67,7 +67,7 @@ h3{text-align: justify;
        -webkit-text-stroke-width: 3px;
        -webkit-text-stroke-color: #FFFFFF;
        text-shadow: 8px 8px #7e2dcf,
-       15px 15px #0C010E;
+       15px 15px #390e63;
       }
 
 .background{padding: 140px;
@@ -144,7 +144,7 @@ img{width: 500px;
        -webkit-text-stroke-width: 3px;
        -webkit-text-stroke-color: #FFFFFF;
        text-shadow: 8px 8px #ff61e7,
-       15px 15px #0C010E;
+       15px 15px #390e63;
 }
 
 h1:hover{font-style: oblique;
