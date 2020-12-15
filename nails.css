@@ -1,5 +1,5 @@
 body{text-align: center;
-     background-color: #ffa6ea;
+     background-color: #ffa6da;
      box-shadow:
      0 0 30px 10px #9b42f5;
      font-family: Verdana, sans-serif;
@@ -58,7 +58,7 @@ h3{text-align: justify;
 
 
 #title{font-weight: 700;
-       box-shadow:0 0 60px 30px #ff61c2;
+       box-shadow:0 0 60px 30px #ff40b6;
        font-family: 'Montserrat', sans-serif;
        font-style: oblique;
        font-size:120px;
