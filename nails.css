@@ -58,11 +58,11 @@ h3{text-align: justify;
 
 
 #title{font-weight: 700;
-       box-shadow:0 0 60px 30px #ff12db;
+       box-shadow:0 0 60px 30px #ff47ed;
        font-family: 'Montserrat', sans-serif;
        font-style: oblique;
        font-size:120px;
-	   letter-spacing:0.1em;
+       letter-spacing:0.1em;
        -webkit-text-fill-color: transparent;
        -webkit-text-stroke-width: 3px;
        -webkit-text-stroke-color: #FFFFFF;
