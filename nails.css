@@ -66,7 +66,7 @@ h3{text-align: justify;
        -webkit-text-fill-color: transparent;
        -webkit-text-stroke-width: 3px;
        -webkit-text-stroke-color: #FFFFFF;
-       text-shadow: 8px 8px #9b42f5,
+       text-shadow: 8px 8px #7e2dcf,
        15px 15px #0C010E;
       }
 
@@ -83,7 +83,7 @@ h3{text-align: justify;
 
 .press{width: 200px;
        background-color: #d9f5ff;
-       color: #9b42f5;
+       color: #7e2dcf;
        font-weight: 700;
        font-size: 20px;
        border: 3px solid #f3cfff;
@@ -93,7 +93,7 @@ h3{text-align: justify;
 
 .reset{width: 200px;
        background-color: #d9f5ff;
-       color: #9b42f5;
+       color: #7e2dcf;
        font-weight: 700;
        font-size: 20px;
        border: 3px solid #f3cfff;
@@ -111,7 +111,7 @@ p{color: #a7d1eb;
   font-style: oblique;
   font-size:90px;
   letter-spacing:0.1em;
-  text-shadow:8px 8px #9b42f5;
+  text-shadow:8px 8px #7e2dcf;
  }
 
 .counter{font-family: Verdana, sans-serif;
@@ -133,7 +133,7 @@ p{color: #a7d1eb;
        }
   
 img{width: 500px;
-    border: #9b42f5;
+    border: #7e2dcf;
     margin-bottom: 70px;
     border-width: 15px;
     border-style: inset;
@@ -158,11 +158,11 @@ h1:hover{font-style: oblique;
 button:hover{color: #ff61e7;
             }
 
-input:hover{border: 4px solid #9b42f5;
+input:hover{border: 4px solid #7e2dcf;
            }
 
-.background:hover{border-top: 4px solid #9b42f5;
-                  border-bottom: 4px solid #9bf2f5;
+.background:hover{border-top: 4px solid #7e2dcf;
+                  border-bottom: 4px solid #7e2dcf;
                  }
 
 p:hover{color: #FFFFFF;
