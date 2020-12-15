@@ -1,5 +1,5 @@
 body{text-align: center;
-     background-color: #e6556f;
+     background-color: #ffa6cf;
      box-shadow:
      0 0 30px 10px #4B0082;
      font-family: Verdana, sans-serif;
@@ -143,19 +143,19 @@ img{width: 500px;
 -webkit-text-fill-color: transparent;
        -webkit-text-stroke-width: 3px;
        -webkit-text-stroke-color: #FFFFFF;
-       text-shadow: 8px 8px #FF0080,
+       text-shadow: 8px 8px #ff61e7,
        15px 15px #0C010E;
 }
 
 h1:hover{font-style: oblique;
          font-size:45px;
-         color:#FF0080;
+         color:#ff61e7;
         }
 
 .counter:hover{color:#b481f7;
               }
 
-button:hover{color: #FF0080;
+button:hover{color: #ff61e7;
             }
 
 input:hover{border: 4px solid #4B0082;
@@ -168,7 +168,7 @@ input:hover{border: 4px solid #4B0082;
 p:hover{color: #FFFFFF;
        }
 
-img:hover{border: #FF0080;
+img:hover{border: #ff61e7;
           border-width: 15px;
           border-style: inset;
          } 
