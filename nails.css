@@ -7,7 +7,7 @@ body{text-align: center;
 
 .banner{height: 85px;
         background-image: url("https://image.shutterstock.com/image-illustration/blue-sky-clouds-watercolor-soft-260nw-385088017.jpg");
-        border: 3px solid #b481f7;
+        border: 3px solid #f3cfff;
         padding-bottom:30px;
         margin-bottom: 40px;
         margin-top: 40px;
@@ -17,9 +17,9 @@ body{text-align: center;
            padding: 12px 15px;
            margin: 8px 0;
            box-sizing: border-box;
-           border: 4px solid #FF0080;
+           border: 4px solid #ff61e7;
            border-radius: 4px;
-           background-color: #a7d1eb;
+           background-color: #d9f5ff;
            font-family: Verdana, sans-serif;
           }
 
@@ -27,9 +27,9 @@ body{text-align: center;
             padding: 12px 15px;
             margin: 8px 0;
             box-sizing: border-box;
-            border: 4px solid #FF0080;
+            border: 4px solid #ff61e7;
             border-radius: 4px;
-            background-color: #b481f7;
+            background-color: #f3cfff;
             font-family: Verdana, sans-serif;
            }
 
@@ -82,21 +82,21 @@ h3{text-align: justify;
            }
 
 .press{width: 200px;
-       background-color: #a7d1eb;
+       background-color: #d9f5ff;
        color: #4B0082;
        font-weight: 700;
        font-size: 20px;
-       border: 3px solid #ae77f7;
+       border: 3px solid #f3cfff;
        padding: 6px 16px 6px 16px;
        font-family: Didot, serif;
       }
 
 .reset{width: 200px;
-       background-color: #a7d1eb;
+       background-color: #d9f5ff;
        color: #4B0082;
        font-weight: 700;
        font-size: 20px;
-       border: 3px solid #ae77f7;
+       border: 3px solid #f3cfff;
        padding: 6px 16px 6px 16px;
        font-family: Didot, serif;
       }
@@ -152,7 +152,7 @@ h1:hover{font-style: oblique;
          color:#ff61e7;
         }
 
-.counter:hover{color:#b481f7;
+.counter:hover{color:#f3cfff;
               }
 
 button:hover{color: #ff61e7;
